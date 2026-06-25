@@ -1,8 +1,10 @@
 package src;
 
-public class Main {
+import javax.swing.SwingUtilities;
+
+public class ScheduleMakerApp {
     public static void main(String[] args) {
-        javax.swing.SwingUtilities.invokeLater(() -> {
+        SwingUtilities.invokeLater(() -> {
             new ScheduleMakerGUI().setVisible(true);
         });
     }

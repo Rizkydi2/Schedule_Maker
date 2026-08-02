@@ -65,11 +65,6 @@ java src.Main
 - **Java** (Java Swing untuk GUI)
 - **IntelliJ IDEA** sebagai IDE pengembangan
 
-## 👥 Kontributor
-
-- Rizkydi2
-- Shakyawanbaguswijaya
-
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan tugas kuliah.

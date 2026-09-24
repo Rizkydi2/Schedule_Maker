@@ -67,4 +67,4 @@ java src.Main
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan tugas kuliah.
+Proyek ini dibuat dengan kelompok untuk memenuhi tugas project UAS.
